@@ -1,0 +1,14 @@
+{
+  "name": "sondagebot",
+  "version": "1.0.1",
+  "description": "Bot pour Sondage by Adri-djay G",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
